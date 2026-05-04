@@ -25,6 +25,11 @@ _A complete data infrastructure for data analysis and violations detections for 
 
 ![](assets/img/traddm.png)
 ---
+**Brain aneurysm detection model**
+_A model I have trained for a Kaggle competition, on sample data supplied by the competition website, plus augmented and external data i have produced and fetched. Late for the entry but evaluated the score with the competition official formula, would have placed 42nd on top of 1140 entries_
+
+![](assets/img/rsnaiad1.png) ![](assets/img/rsnaiad.png)
+---
 **Garage manager pro**
 _A local CRM for small/medium auto repair shops, based on Godot and SQLite. Born from a friends need. Under development and to be for sale soon_
 
