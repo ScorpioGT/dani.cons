@@ -21,7 +21,17 @@ navigation:
     sublist:
       - name: F1 telemetry
         link: ./work.html#formula-1-telemetry-app
-      
+      - name: Short video generator
+        link: ./work.html#automatic-short-video-generator
+      - name: Complete data infrastructure
+        link: ./work.html#complete-data-infrastructure
+      - name: Brain aneurysm detection model
+        link: ./work.html#brain-aneurysm-detection-model
+      - name: Garage manager pro
+        link: ./work.html#garage-manager-pro
+      - name: Electronic devices and products
+        link: ./work.html#electronic-devices-and-products
+
   - name: Certifications
     link: ./certs.html
   - name: About me
