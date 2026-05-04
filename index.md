@@ -6,7 +6,9 @@ I'm a **data specialist**, but a bit of a generalist, in love with **motorsports
 
 ## My work 
 ### Corporate (Details on my CV. Download HERE)
-[Link to another page](./assets/docs/cv_text.pdf).
+[Download my text only CV HERE](/assets/docs/cv_text.pdf)
+[Download my visual CV HERE](/assets/docs/cv_visuals.pdf)
+
 🇨🇭 Switzerland - Zug 2022-2024
 **Seagen (now Pfizer)** - reorganization of the data infraatructure and model in Snowflake and on the MS PowerBI service. Reduced refresh times from 2+hours with failures and disruptions to less than 10 minutes reliable.
 **Seagen (now Pfizer)** - automated daily files ingestion ad implemented checks with data missing alerts for several vendors and countries, via PowerAutomate.
