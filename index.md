@@ -5,32 +5,16 @@ layout: default
 I'm a **data specialist**, but a bit of a generalist, in love with **motorsports** and **technology**. Always willing to learn and expand my horizons.
 
 ## My work 
-### Corporate (Details on my CV. Download HERE)
+### Corporate 
+(Details on my CV. Download HERE)
 [Download my text only CV HERE](/assets/docs/cv_text.pdf)
+
 [Download my visual CV HERE](/assets/docs/cv_visuals.pdf)
 
-🇨🇭 Switzerland - Zug 2022-2024
-**Seagen (now Pfizer)** - reorganization of the data infraatructure and model in Snowflake and on the MS PowerBI service. Reduced refresh times from 2+hours with failures and disruptions to less than 10 minutes reliable.
-**Seagen (now Pfizer)** - automated daily files ingestion ad implemented checks with data missing alerts for several vendors and countries, via PowerAutomate.
-**Seagen (now Pfizer)** - created incentive compensation dashboard to replace external paid service for field sales employees.
-
-🇳🇱 Holland - Amsterdam 2021
-**Transferz - Kickstarted the data infrastructure via Google BigQuery, dbt, PowerBI, and delivered the first few dashboards.
-
-🇨🇦 Canada - Vaughan 2019-2020
-**Unique Store Fixtures - Operated expensive CNC machines that cut wood and stone, to create stunning living and commercial environments.
-
-🇮🇹 Italy - San Mauro Pascoli 2018
-**Owner of Uberligno - Machine and hand crafted custom furniture and fixtures
-
-🇳🇱 Holland - Amsterdam 2017
-**Navads (now Überall) - Kickstarted the data infrastructure fetching data from the company MongoDB database, CRM and other sources, and combined data via Talend to create a PostgreSQL data warehouse and datacubes for analytics in PowerBI
-
-🇳🇱 Holland - Amsterdam 2011 - 2016
-**TomTom - From the italian customer care team i movet do Reverse Logistics analyst where I ran analysis on devices faults, supply chain and ultimately warranty provision
+### Personal projects
 
 **Formula 1 telemetry app
-<video width="50%" controls>
+<video width="100%" controls>
     <source src="assets/img/f1telem.mp4" type="video/mp4">
 </video>
 
