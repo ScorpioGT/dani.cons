@@ -6,6 +6,9 @@ layout: default
 ___
 
 ### Corporate work
+
+---
+
 Details on my CV
 
 [Download my text only CV HERE](/assets/docs/cv_text.pdf)
