@@ -2,7 +2,20 @@
 layout: default
 ---
 
-I'm a bit of a generalist, in love with **motorsports** and **technology**. Always willing to learn and expand my horizons.
+I'm a **data specialist**, but a bit of a generalist, in love with **motorsports** and **technology**. Always willing to learn and expand my horizons.
+
+### My work
+<video width="50%" controls>
+    <source src="assets/img/f1telem.mp4" type="video/mp4">
+</video>
+Formula 1 telemetry app
+_An app based on Python+Godot that gets data from the fastf1 api to generate a beautiful animation of selected drivers/sessions/laps with plenty of interesting datapoints_
+---------
+Complete data infrastructure for data analysis and violations detections.
+_A complete system written in python that fetches data from API calls and organizes everything in a star schema datawarehouse in PostgreSQL, then fed to PowerBI for visual analysis_
+---------
+Garage manager pro
+_A local CRM for small/medium auto repair shops, based on Godot and SQLite_
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
