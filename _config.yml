@@ -20,17 +20,17 @@ navigation:
     link: ./index.html
     sublist:
       - name: F1 telemetry
-        link: ./work.html#formula-1-telemetry-app
+        link: ./index.html#formula-1-telemetry-app
       - name: Short video generator
-        link: ./work.html#automatic-short-video-generator
+        link: ./index.html#automatic-short-video-generator
       - name: Complete data infrastructure
-        link: ./work.html#complete-data-infrastructure
+        link: ./index.html#complete-data-infrastructure
       - name: Brain aneurysm detection model
-        link: ./work.html#brain-aneurysm-detection-model
+        link: ./index.html#brain-aneurysm-detection-model
       - name: Garage manager pro
-        link: ./work.html#garage-manager-pro
+        link: ./index.html#garage-manager-pro
       - name: Electronic devices and products
-        link: ./work.html#electronic-devices-and-products
+        link: ./index.html#electronic-devices-and-products
 
   - name: Certifications
     link: ./certs.html
