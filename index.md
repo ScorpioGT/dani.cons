@@ -18,15 +18,20 @@ Details on my CV
 ---
 
 ### Personal projects work
+
 ---
-**Formula 1 telemetry app** - An app written in Python fetching telemetry data via the fastf1 API, using Godot as graphics engine, to display beautiful animations of every lap of any session of every GP of the F1 seasons, allowing to compare insightful and rich datapoints for up to 3 drivers at a time. Still under development.
+
+### **Formula 1 telemetry app** - 
+_An app written in Python fetching telemetry data via the fastf1 API, using Godot as graphics engine, to display beautiful animations of every lap of any session of every GP of the F1 seasons, allowing to compare insightful and rich datapoints for up to 3 drivers at a time. Still under development._
 
 ![](assets/img/f1tlm.png)
 
 ---
 
-### **Automatic short video generator** - [Example video](https://www.instagram.com/p/DXetp9ziJ0N/)
+### **Automatic short video generator** -
 _An 100% local n8n workflow that uses Ollama and ffmpeg to automatically generate a short 30 seconds slideshow with dissolvence, watermark logo, and a summary voiceover with subtitles of any text you paste in an input file_
+
+[Example video](https://www.instagram.com/p/DXetp9ziJ0N/)
 
 ![](assets/img/n8nwf.png)
 
