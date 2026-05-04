@@ -17,7 +17,7 @@ platforms:
 
 navigation:
   - name: My Work 
-    link: ./work.html
+    link: ./index.html
     sublist:
       - name: F1 telemetry
         link: ./work.html#formula-1-telemetry-app
