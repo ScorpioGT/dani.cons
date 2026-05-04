@@ -15,7 +15,7 @@ Details on my CV
 ### Personal projects
 
 **Formula 1 telemetry app
-![Telemetry app](assets/img/f1telem.png)
+![Telemetry app](assets/img/f1tlm.png)
 
 **Automatic short video generator - ![Example video](https://www.instagram.com/p/DXetp9ziJ0N/)
 _An n8n workflow that automatically generates a short 30 seconds slideshow with dissolvence, watermark logo, and a summary voiceover with subtitles of any text you paste in an input file_
