@@ -4,18 +4,35 @@ layout: default
 
 I'm a **data specialist**, but a bit of a generalist, in love with **motorsports** and **technology**. Always willing to learn and expand my horizons.
 
-### My work
+### My work 
+## Corporate
+#**Seagen (now Pfizer)** - reorganization of the data infraatructure and model in Snowflake and on the MS PowerBI service. Reduced refresh times from 2+hours with failures and disruptions to less than 10 minutes reliable.
+
+#**Seagen (now Pfizer)** - automated daily files ingestion ad implemented checks with data missing alerts for several vendors and countries, via PowerAutomate.
+
+#**Seagen (now Pfizer)** - created incentive compensation dashboard to replace external paid service for field sales employees.
+
+
+**Formula 1 telemetry app
 <video width="50%" controls>
     <source src="assets/img/f1telem.mp4" type="video/mp4">
 </video>
-Formula 1 telemetry app
+
 _An app based on Python+Godot that gets data from the fastf1 api to generate a beautiful animation of selected drivers/sessions/laps with plenty of interesting datapoints_
+
 ---------
-Complete data infrastructure for data analysis and violations detections.
-_A complete system written in python that fetches data from API calls and organizes everything in a star schema datawarehouse in PostgreSQL, then fed to PowerBI for visual analysis_
+
+**Complete data infrastructure.
+_A complete data infrastructure for data analysis and violations detections for a Prop trading firm. Written in python, it fetches data from API calls and organizes everything in a star schema datawarehouse in PostgreSQL, then fed to PowerBI for visual analysis_
+
 ---------
-Garage manager pro
-_A local CRM for small/medium auto repair shops, based on Godot and SQLite_
+
+**Garage manager pro
+_A local CRM for small/medium auto repair shops, based on Godot and SQLite. Born from a friends need. Under development and to be for sale soon_
+
+---------
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
