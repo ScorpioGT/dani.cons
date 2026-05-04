@@ -6,7 +6,8 @@ I'm a **data specialist**, but a bit of a generalist, in love with **motorsports
 
 ## My work 
 ### Corporate 
-(Details on my CV. Download HERE)
+Details on my CV
+
 [Download my text only CV HERE](/assets/docs/cv_text.pdf)
 
 [Download my visual CV HERE](/assets/docs/cv_visuals.pdf)
