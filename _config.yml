@@ -1,6 +1,6 @@
 title: Daniele Conserva
 logo: /assets/img/logo.jpg
-email: person@address.com
+
 description: A portfolio page about me and my work.
 favicon: true
 color-scheme: auto
@@ -21,6 +21,7 @@ navigation:
     sublist:
       - name: F1 telemetry
         link: ./work.html#formula-1-telemetry-app
+      
   - name: Certifications
     link: ./certs.html
   - name: About me
