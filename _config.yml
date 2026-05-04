@@ -21,7 +21,7 @@ navigation:
   - name: My Work 
     link: ./work.html
     sublist:
-      - name: 
-        link: ./index.html#small-image
+      - name: F1 telemetry
+        link: ./index.html#formula-1-telemetry-app
   - name: Another Page
     link: ./another-page.html
