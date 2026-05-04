@@ -2,14 +2,18 @@
 layout: default
 ---
 ## My work 
+
 ___
+
 ### Corporate work
 Details on my CV
 
 [Download my text only CV HERE](/assets/docs/cv_text.pdf)
 
 [Download my visual CV HERE](/assets/docs/cv_visuals.pdf)
-___
+
+---
+
 ### Personal projects work
 ---
 **Formula 1 telemetry app** - An app written in Python fetching telemetry data via the fastf1 API, using Godot as graphics engine, to display beautiful animations of every lap of any session of every GP of the F1 seasons, allowing to compare insightful and rich datapoints for up to 3 drivers at a time. Still under development.
