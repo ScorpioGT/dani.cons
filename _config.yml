@@ -25,4 +25,4 @@ navigation:
   - name: Certifications
     link: ./certs.html
   - name: About me
-    link: ./index.html
+    link: ./aboutme.html
