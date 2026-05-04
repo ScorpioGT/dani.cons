@@ -16,12 +16,12 @@ platforms:
     link: https://www.linkedin.com/in/danieleconserva
 
 navigation:
-  - name: Readme
-    link: ./index.html
   - name: My Work 
     link: ./work.html
     sublist:
       - name: F1 telemetry
-        link: ./index.html#formula-1-telemetry-app
+        link: ./work.html#formula-1-telemetry-app
   - name: Certifications
     link: ./certs.html
+  - name: About me
+    link: ./index.html
