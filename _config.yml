@@ -23,5 +23,5 @@ navigation:
     sublist:
       - name: F1 telemetry
         link: ./index.html#formula-1-telemetry-app
-  - name: Another Page
-    link: ./another-page.html
+  - name: About me
+    link: ./aboutme.html
