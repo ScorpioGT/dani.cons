@@ -18,8 +18,10 @@ platforms:
 navigation:
   - name: Readme
     link: ./index.html
+  - name: My Work 
+    link: ./work.html
     sublist:
-      - name: Image
+      - name: 
         link: ./index.html#small-image
   - name: Another Page
     link: ./another-page.html
