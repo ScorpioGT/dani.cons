@@ -55,6 +55,6 @@ _A local CRM for small/medium auto repair shops, based on Godot and SQLite. Born
 ---
 
 ### **Electronic devices and products**
-_As a sidequest I'm trying to launch a brand about motorsports called SDP (Science Driven Perormance) for which i have fully engineered a go kart scale that has a touchscreen and connects to the 4 plates under the wheels. It gives full weight distribution in all corner, real time COG and cross weight. The menu switches between 4 languages and imperial and metric units. the products pipeline also has a reaction training device with 6 pads (currently under development) and a full telemetry system_
+_As a sidequest I'm trying to launch a brand about motorsports called SDP (Science Driven Performance) for which i have fully engineered a go kart scale that has a touchscreen and connects to the 4 plates under the wheels. It gives full weight distribution in all corner, real time COG and cross weight. The menu switches between 4 languages and imperial and metric units. The products pipeline also has a reaction training device with 6 pads (currently under development) and a full telemetry system_
 
 ![](assets/img/sdpscale.jpg)
