@@ -19,19 +19,10 @@ navigation:
   - name: My Work 
     link: ./index.html
     sublist:
-      - name: F1 telemetry
-        link: ./index.html#formula-1-telemetry-app
-      - name: Short video generator
-        link: ./index.html#automatic-short-video-generator
-      - name: Complete data infrastructure
-        link: ./index.html#complete-data-infrastructure
-      - name: Brain aneurysm detection model
-        link: ./index.html#brain-aneurysm-detection-model
-      - name: Garage manager pro
-        link: ./index.html#garage-manager-pro
-      - name: Electronic devices and products
-        link: ./index.html#electronic-devices-and-products
-
+      - name: Corporate
+        link: ./index.html#corporate-work
+      - name: Personal
+        link: ./index.html#personal-projects-work
   - name: Certifications
     link: ./certs.html
   - name: About me
