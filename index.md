@@ -20,7 +20,7 @@ What I did was calculating the manufacturing week from the serial numbers, addin
 ### Ever got frustrated at unavailable or outdated data?
 At Seagen, I have re-worked a finance data model that allowed our analyst to go from "I may be able to see fresh data before lunch" to "It's 8.30 pm, let me see what's new today".
 
-**Details:**
+**Details:** 
 
 From 2 hours refreshes with frequent disruptions and errors and super slow and unresponsive dashboards, to 10 minutes efficient refresh and better error handling, to snappy dashboards that would filter and switch pages in a matter of 5 seconds instead of 5 minutes. Coordinating with the database administration team, I have provided the tables structure and the queries to generate and refresh our data warehouse in Snowflake, which was then used as a base for further ingestion and transformation in the PowerBI service, leading to much faster refreshes and way more responsive reporting dasboards.
 ---
