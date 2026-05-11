@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# My work 
+# My work
 
 ___
 
