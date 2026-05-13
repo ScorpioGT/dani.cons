@@ -15,8 +15,10 @@ platforms:
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/danieleconserva
   - name: Download my text only CV
+    icon: <i class="fas fa-file-pdf"></i>
     link: https://scorpiogt.github.io/dani.cons/assets/docs/cv_text.pdf
   - name: Download my visual CV
+    icon: <i class="fas fa-file-pdf"></i>
     link: https://scorpiogt.github.io/dani.cons/assets/docs/cv_visuals.pdf
 
 
